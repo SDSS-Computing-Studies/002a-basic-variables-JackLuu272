@@ -1,2 +1,2 @@
-fname=Mr
-lname=Yang
+fname="Mr"
+lname="Yang"
